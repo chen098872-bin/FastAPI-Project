@@ -1,0 +1,11 @@
+{
+  "code": 404,
+  "status": "error",
+  "message": "请求的资源不存在",
+  "timestamp": "2025-12-29T18:29:26.355214",
+  "errors": null,
+  "details": {
+    "path": "http://127.0.0.1:8000/api/v1/name/company-favorite/add",
+    "method": "POST"
+  }
+}

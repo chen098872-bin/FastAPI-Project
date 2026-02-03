@@ -1,0 +1,12 @@
+{
+  "code": 500,
+  "status": "error",
+  "message": "服务器遇到问题，请稍后重试。如问题持续，请联系客服",
+  "timestamp": "2025-12-29T16:51:29.271899",
+  "errors": null,
+  "details": {
+    "error_id": "ResponseValidationError_4600",
+    "timestamp": "2025-12-29T16:51:29.271847",
+    "path": "http://127.0.0.1:8000/api/v1/name/company/favorite/add?history_id=5"
+  }
+}

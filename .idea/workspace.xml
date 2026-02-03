@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2bd979b-f380-4206-8509-03e5ff1443fc" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/routers/auth_router.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36QK2LsUK3z22EbuzoN1OioGRJe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;FastAPI.llm-chat.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #10.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #11.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #12.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #13.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #14.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #15.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #16.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #17.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #18.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #19.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #20.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #22.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #23.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #25.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #27.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #31.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #7.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #8.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | #9.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.test_main | ===========================================#7.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.agent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.agent_Integration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.agent_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Graduation project/llm-chat/static/avatars&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;language.qml&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Graduation project\llm-chat\static\avatars" />
+      <recent name="E:\Graduation project\llm-chat\core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="FastAPI.llm-chat">
+    <configuration name="test_main | #22" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#22" index="22" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main | #23" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#23" index="23" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main | #25" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#25" index="25" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main | #31" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#31" index="31" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main | ===========================================#7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="===========================================#7" index="19" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FastAPI">
+      <module name="llm-chat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:/AppData/Local/Programs/miniconda3/envs/fastapi-env/python.exe" />
+      <option name="SDK_NAME" value="D:\AppData\Local\Programs\miniconda3\envs\fastapi-env" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llm-chat" type="Python.FastAPI">
+      <option name="file" value="C:\Users\chent\Desktop\Graduation project\llm-chat\app\main.py" />
+      <module name="llm-chat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:/AppData/Local/Programs/miniconda3/envs/fastapi-env/python.exe" />
+      <option name="SDK_NAME" value="D:\AppData\Local\Programs\miniconda3\envs\fastapi-env" />
+      <option name="WORKING_DIRECTORY" value="D:/AppData/Local/Programs/miniconda3/envs/fastapi-env" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="FastAPI.llm-chat" />
+      <item itemvalue="HTTP 请求.test_main | #22" />
+      <item itemvalue="HTTP 请求.test_main | #23" />
+      <item itemvalue="HTTP 请求.test_main | #25" />
+      <item itemvalue="HTTP 请求.test_main | #31" />
+      <item itemvalue="HTTP 请求.test_main | ===========================================#7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.test_main | #31" />
+        <item itemvalue="HTTP 请求.test_main | #22" />
+        <item itemvalue="HTTP 请求.test_main | #25" />
+        <item itemvalue="HTTP 请求.test_main | #23" />
+        <item itemvalue="HTTP 请求.test_main | ===========================================#7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c2bd979b-f380-4206-8509-03e5ff1443fc" name="更改" comment="" />
+      <created>1764933148293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764933148293</updated>
+      <workItem from="1764933149196" duration="18376000" />
+      <workItem from="1764951720869" duration="114000" />
+      <workItem from="1764982859232" duration="687000" />
+      <workItem from="1764983868497" duration="817000" />
+      <workItem from="1764984721365" duration="1953000" />
+      <workItem from="1764986715116" duration="342000" />
+      <workItem from="1764987088233" duration="1082000" />
+      <workItem from="1764989434858" duration="305000" />
+      <workItem from="1764989989746" duration="1550000" />
+      <workItem from="1764992875705" duration="3915000" />
+      <workItem from="1764997510384" duration="565000" />
+      <workItem from="1765001302878" duration="5780000" />
+      <workItem from="1765026319092" duration="13405000" />
+      <workItem from="1765082096729" duration="8721000" />
+      <workItem from="1765101802162" duration="5298000" />
+      <workItem from="1765123782964" duration="3816000" />
+      <workItem from="1765163785946" duration="339000" />
+      <workItem from="1765175003866" duration="7499000" />
+      <workItem from="1765190288348" duration="1758000" />
+      <workItem from="1765192478528" duration="9904000" />
+      <workItem from="1765247982409" duration="17000" />
+      <workItem from="1765248058519" duration="828000" />
+      <workItem from="1765260539545" duration="4162000" />
+      <workItem from="1765265785426" duration="5884000" />
+      <workItem from="1765277164136" duration="5352000" />
+      <workItem from="1765295527049" duration="732000" />
+      <workItem from="1765331987747" duration="5181000" />
+      <workItem from="1765346254053" duration="7088000" />
+      <workItem from="1765353818561" duration="1029000" />
+      <workItem from="1765357548031" duration="277000" />
+      <workItem from="1765360096580" duration="9714000" />
+      <workItem from="1765373006054" duration="1608000" />
+      <workItem from="1765414883672" duration="6789000" />
+      <workItem from="1765423534515" duration="16000" />
+      <workItem from="1765433154346" duration="10668000" />
+      <workItem from="1765444178566" duration="1017000" />
+      <workItem from="1765446428123" duration="329000" />
+      <workItem from="1765446909542" duration="11112000" />
+      <workItem from="1765467843654" duration="404000" />
+      <workItem from="1765502267748" duration="3769000" />
+      <workItem from="1765506210012" duration="449000" />
+      <workItem from="1765506737233" duration="3572000" />
+      <workItem from="1765520034602" duration="7078000" />
+      <workItem from="1765715091008" duration="6617000" />
+      <workItem from="1765727775334" duration="2011000" />
+      <workItem from="1765731122404" duration="3126000" />
+      <workItem from="1765805416255" duration="1979000" />
+      <workItem from="1765807438979" duration="1453000" />
+      <workItem from="1765847791402" duration="160000" />
+      <workItem from="1765850367309" duration="687000" />
+      <workItem from="1765852974479" duration="968000" />
+      <workItem from="1766114729599" duration="249000" />
+      <workItem from="1766197039413" duration="1320000" />
+      <workItem from="1766232777428" duration="1067000" />
+      <workItem from="1766310373518" duration="201000" />
+      <workItem from="1766369376391" duration="2079000" />
+      <workItem from="1766387952183" duration="6000" />
+      <workItem from="1766388564881" duration="232000" />
+      <workItem from="1766389541665" duration="2912000" />
+      <workItem from="1766458010276" duration="666000" />
+      <workItem from="1766494228254" duration="355000" />
+      <workItem from="1766814663918" duration="9977000" />
+      <workItem from="1766828860883" duration="5388000" />
+      <workItem from="1766985770832" duration="18750000" />
+      <workItem from="1767619958897" duration="337000" />
+      <workItem from="1767621167126" duration="45000" />
+      <workItem from="1767621831563" duration="1339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/llm_chat$agent_Integration.coverage" NAME="agent_Integration 覆盖结果" MODIFIED="1765098670011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/llm_chat$agent.coverage" NAME="agent 覆盖结果" MODIFIED="1765505695835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/llm_chat$agent_test.coverage" NAME="agent_test 覆盖结果" MODIFIED="1765505728676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/llm_chat$llm_chat.coverage" NAME="llm-chat 覆盖结果" MODIFIED="1767005483163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/AppData/Local/Programs/miniconda3/envs/fastapi-env" />
+  </component>
+</project>
